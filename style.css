@@ -485,5 +485,6 @@ height: 782px; */
     position: absolute;
     z-index: 1;
     left: 4%;
+    top: -3%;
     max-width: 0%;
 } 
