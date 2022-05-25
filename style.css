@@ -399,6 +399,12 @@ body,p,ul, li, h1, h2, h3, h4, h5, h6,span{
     background-size: cover;
 }
 @media only screen and (max-width:375px) {
+    #header{
+        padding: 0px 7px;
+    }
+    .header-right ul li {
+        margin-right: 26px;
+    }
     .product-teaser ul li{
         display: none;
     }
